@@ -32,3 +32,7 @@ There is EStaticText, EOptionSelector, EColorPick, ESquare and ETreeView.
 Important thing you should install `tktooltip` library so you can see the tooltips.
 
 https://pypi.org/project/tkinter-tooltip/
+
+and PyGame for the sounds.
+
+https://pypi.org/project/pygame/
