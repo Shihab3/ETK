@@ -4,6 +4,8 @@ Easy TKinter library
 it is just for making tkinter much more easier and less code lines.
 to use it just extract that .zip which contain the ETK main folder in your project so you can include it in your scripts.
 
+Don't forget to click on `Wiki` page.
+
 Examples:
 
 1. Create cool button in class EButton
