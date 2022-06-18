@@ -1,0 +1,1 @@
+this folder used in "demo.py" to load the GIF images.
