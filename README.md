@@ -1,12 +1,10 @@
 # ETK
 Easy TKinter library
 
-it is just for making tkinter much more easier and less code lines.
-to use it just extract that .zip which contain the ETK main folder in your project so you can include it in your scripts.
-
+it is for making tkinter much more easier and less code lines.
 Don't forget to click on `Wiki` page.
 
-Examples:
+## Examples:
 
 1. Create cool button in class EButton
 ```py
@@ -31,15 +29,23 @@ Well... there is more classes but you should try to explore them by yourself.
 
 There is EStaticText, EOptionSelector, EColorPick, ESquare and ETreeView.
 
-Important thing you should install `tktooltip` library so you can see the tooltips.
+## How to use
 
-https://pypi.org/project/tkinter-tooltip/ `pip install tkinter-tooltip`
+first you should install these packages `tkinter-tooltip`, `pygame` and `ttkwidgets`.
 
-and PyGame for the sounds.
+https://pypi.org/project/tkinter-tooltip/ 
 
-https://pypi.org/project/pygame/ `pip install pygame`
+https://pypi.org/project/pygame/ 
 
-and `pip install ttkwidgets`
+https://pypi.org/project/ttkwidgets
 
-one line: `pip install pygame ttkwidgets tkinter-tooltip`
+in one line: 
 
+`pip install pygame ttkwidgets tkinter-tooltip`
+
+then copy that `ETK` folder into your project and use it.
+
+```py
+import ETK
+ETK.Exyz
+```
