@@ -38,3 +38,8 @@ https://pypi.org/project/tkinter-tooltip/ `pip install tkinter-tooltip`
 and PyGame for the sounds.
 
 https://pypi.org/project/pygame/ `pip install pygame`
+
+and `pip install ttkwidgets`
+
+one line: `pip install pygame ttkwidgets tkinter-tooltip`
+
