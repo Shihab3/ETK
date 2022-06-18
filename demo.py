@@ -3,10 +3,10 @@ import tkinter as tk
 
 root = tk.Tk(); root.geometry('800x800'); root.title('Demo ETK'); root['bg'] = "#242424"
 
-Button        = ETK.EButton(root, text="EButton",image="C:\\Users\\Administrator\\Pictures\\Sample Pictures\\the-promised-neverland-smile.gif",
+Button        = ETK.EButton(root, text="EButton",image="demoFiles\\the-promised-neverland-smile.gif",
                             placeMent=ETK.EPlace(10, 80), toolTip=ETK.ETip('This is ToolTip'))
 
-Text          = ETK.EStaticText(root,"EStaticText",img=ETK.EImage("Data\\Loading.gif","X:64,Y:64"),
+Text          = ETK.EStaticText(root,"EStaticText",img=ETK.EImage("demoFiles\\Loading.gif","X:64,Y:64"),
                                 placeMent=ETK.EPlace(10,420),styleCode='bg:#242424,fg:white')
 
 PathEntry     = ETK.EPathInput     (root,placeMent=ETK.EPlace(10,30),type='FILE')
